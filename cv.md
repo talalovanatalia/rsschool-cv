@@ -12,20 +12,23 @@
 Responsibilities:
 * Functional testing;
 * Regression testing;
-* Securitytesting;
+* Security testing;
 * Creating a test documentation.
 
 
 2. **Dec 2019 - Sept 2022:** QA engineer at Iss ARTcompany
 Responsibilities:
 * Functional testing;
-* Regression testing;Testing;
+* Regression testing;
 * Creating a test documentation
 
 
 ## Skills and Proficiency: ##
-
-
+* HTML
+* CSS/SASS
+* CoreJS
+* Postman
+* Jmeter
 
 
 ## Languages: ##
