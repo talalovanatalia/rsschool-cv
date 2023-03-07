@@ -20,7 +20,7 @@
   ***Responsibilities:***
 * Functional testing;
 * Regression testing;
-* Creating a test documentation
+* Creating a test documentation.
 
 
 ## Skills and Proficiency: ##
