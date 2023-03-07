@@ -38,5 +38,11 @@ Responsibilities:
 
 
 ## Code example: ##
+~~~
+class Solution{
+  static main() {
+    console.log("Hello World!");
+  }  
+~~~
 -----------------------------------------------------------------------------
 
