@@ -8,16 +8,16 @@
 
 ## Work experience: ##
 
-1. **Sept 2022 - now:** QA engineer at BIA technologies company
-Responsibilities:
+1. **Sept 2022 - now:** QA engineer at BIA technologies company.  
+  Responsibilities:
 * Functional testing;
 * Regression testing;
 * Security testing;
 * Creating a test documentation.
 
 
-2. **Dec 2019 - Sept 2022:** QA engineer at Iss ARTcompany
-Responsibilities:
+2. **Dec 2019 - Sept 2022:** QA engineer at Iss ART company.  
+  Responsibilities:
 * Functional testing;
 * Regression testing;
 * Creating a test documentation
