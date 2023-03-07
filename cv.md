@@ -1,8 +1,8 @@
 # Natalya Talalova #
 
 ## Contacts ##
-+ **phone**:+79136369094
-+ **e-mail:** talalovanatalia1@gmail.com
++ **Phone**:+79136369094
++ **E-mail:** talalovanatalia1@gmail.com
 + **Telegram:** @Natalya_Talalova
 
 
