@@ -1,9 +1,9 @@
 # Natalya Talalova #
 
-## Contact information ##
-*phone:+79136369094
-*e-mail: talalovanatalia1@gmail.com
-*Telegram* @Natalya_Talalova
+## Contacts ##
++ **phone**:+79136369094
++ **e-mail:** talalovanatalia1@gmail.com
++ **Telegram:** @Natalya_Talalova
 
 
 ## Work experience: ##
@@ -22,9 +22,9 @@ Responsibilities:
 
 
 ## Languages: ##
-+**Russian:** Native
-+**English:** B1-B2
-+**German:2** A2
++ **Russian:** Native
++ **English:** B1-B2
++ **German:2** A2
 
 
 ## Code example: ##
