@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://talalovanatalia.github.io/rsschool-cv/cv
+https://talalovanatalia.github.io/rsschool-cv/
